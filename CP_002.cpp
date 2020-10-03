@@ -1,4 +1,4 @@
-'''
+/*
 2.	Give a string containing a variable name in camel case, decipher the same and write each word on a different line.
 
 String s = IAmACompetitiveProgrammer
@@ -7,7 +7,7 @@ Am
 A
 Competitive
 Programmer
-'''
+*/
 
 #include <iostream>
 #include <cctype>
@@ -26,7 +26,7 @@ int main() {
     solve(s);
 }
 
-'''
+/*
 Output:
 
 I
@@ -34,4 +34,4 @@ Am
 A
 Competitive
 Programmer
-'''
+*/
