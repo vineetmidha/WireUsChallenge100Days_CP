@@ -1,8 +1,8 @@
-'''
+/*
 5.	Give a string, remove its duplicate consecutive characters. 
 Example: "hello"
 Output: "hel*o"
-'''
+*/
 
 #include <iostream>
 using namespace std;
