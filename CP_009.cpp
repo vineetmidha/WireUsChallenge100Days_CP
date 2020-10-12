@@ -14,7 +14,7 @@ void reverse(int a[], int n){
 }
 
 int main() {
-    int t, n;
+    int n;
     
     cin >> n;
     
@@ -29,7 +29,7 @@ int main() {
     for (int i=0; i<n; i++){
         cout << a[i] << " ";
     }
-    
+	
 	return 0;
 }
 
